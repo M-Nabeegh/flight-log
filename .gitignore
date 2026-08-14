@@ -1,0 +1,12 @@
+# Personal data — never published.
+personal/
+FlightLog/Assets.xcassets/portrait.imageset/
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+*.xcuserdatad/
+xcuserdata/
